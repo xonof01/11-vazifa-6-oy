@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "img": "",
+      "name": "Anvar",
+      "surname": "Anvarov",
+      "age": "23",
+      "study": "university"
+    },
+    {
+      "id": "cb22",
+      "img": "blob:http://localhost:5173/8691274f-5916-40d3-b1a4-41ef65b1323f",
+      "name": "Firdavs",
+      "surname": "Avazxonov",
+      "age": "20",
+      "study": "Najot talim"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "img": "blob:http://localhost:5173/8691274f-5916-40d3-b1a4-41ef65b1323f",
+      "name": "Nurillo",
+      "surname": "Suyunboyev",
+      "age": "22",
+      "study": "National University"
+    }
+  ]
+}
