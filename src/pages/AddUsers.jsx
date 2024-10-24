@@ -31,6 +31,10 @@ function AddUsers() {
 				<h2 className="font-bold text-[22px]">Add Students</h2>
 				<Button htmlType='submit' size='large' type='primary'>Save</Button>
 			</div>
+			<div className="flex items-center justify-between">
+				<h2 className="font-bold text-[22px]">Add teachers</h2>
+				<Button htmlType='submit' size='large' type='primary'>Save</Button>
+			</div>
 			<div className="flex justify-between mt-5">
 				<div className="w-[49%] border-[2px] border-slate-500 rounded-[15px] p-2">
 					<label className="fle flex-col">
